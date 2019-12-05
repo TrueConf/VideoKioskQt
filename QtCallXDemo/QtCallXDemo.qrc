@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/QtCallXDemo">
+        <file alias="CallButton_ActionCalling.png">images/calling.png</file>
+        <file alias="CallButton_ActionCall.png">images/Call.png</file>
+        <file alias="CallButton_ActionConnecting.png">images/connecting.png</file>
+        <file alias="CallButton_ActionReject.png">images/Reject.png</file>
+        <file alias="Background.png">images/Background.png</file>
+        <file alias="StatusIcon_NotConnected.png">images/s_gray.png</file>
+        <file alias="StatusIcon_Online.png">images/s_green.png</file>
+        <file alias="StatusIcon_Offline.png">images/s_red.png</file>
+        <file alias="StatusIcon_Busy.png">images/s_yellow.png</file>
+        <file alias="YourLogo.png">images/Your-logo.png</file>
+    </qresource>
+</RCC>
